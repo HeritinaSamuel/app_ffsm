@@ -1,203 +1,155 @@
-# Privacy Policy
+# Politique de Confidentialité
 
-Last updated: January 03, 2026
+Dernière mise à jour : 03 Janvier 2026
 
-This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+Cette Politique de Confidentialité décrit Nos politiques et procédures sur la collecte, l'utilisation et la divulgation de Vos informations lorsque Vous utilisez le Service et Vous informe sur Vos droits à la confidentialité et comment la loi Vous protège.
 
-We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the [Free Privacy Policy Generator](https://www.freeprivacypolicy.com/free-privacy-policy-generator/).
+Nous utilisons Vos Données Personnelles pour fournir et améliorer le Service. En utilisant le Service, Vous acceptez la collecte et l'utilisation des informations conformément à cette Politique de Confidentialité. Cette Politique de Confidentialité a été créée avec l'aide du [Free Privacy Policy Generator](https://www.freeprivacypolicy.com/free-privacy-policy-generator/).
 
-## Interpretation and Definitions
+## Interprétation et Définitions
 
-### Interpretation
+### Interprétation
 
-The words whose initial letters are capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+Les mots dont la lettre initiale est en majuscule ont des significations définies dans les conditions suivantes. Les définitions suivantes auront la même signification, qu'elles apparaissent au singulier ou au pluriel.
 
-### Definitions
+### Définitions
 
-For the purposes of this Privacy Policy:
+Aux fins de cette Politique de Confidentialité :
 
-- __Account__ means a unique account created for You to access our Service or parts of our Service.
-- __Affiliate__ means an entity that controls, is controlled by, or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+- __Compte__ signifie un compte unique créé pour Vous permettre d'accéder à notre Service ou à des parties de notre Service.
+- __Affilié__ signifie une entité qui contrôle, est contrôlée par ou est sous contrôle commun avec une partie, où "contrôle" signifie la propriété de 50 % ou plus des actions, des parts sociales ou d'autres titres donnant droit de vote pour l'élection des administrateurs ou autre autorité de gestion.
 
-- __Application__ refers to FFSM, the software program provided by the Company.
+- __Application__ fait référence à FFSM, le programme logiciel fourni par la Société.
 
+- __Société__ (dénommée "la Société", "Nous", "Notre" ou "Nos" dans cet Accord) fait référence à FFSM.
 
+- __Pays__ fait référence à : Madagascar
 
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to FFSM.
+- __Appareil__ signifie tout appareil pouvant accéder au Service tel qu'un ordinateur, un téléphone portable ou une tablette numérique.
 
+- __Données Personnelles__ désigne toute information se rapportant à une personne identifiée ou identifiable.
 
+- __Service__ fait référence à l'Application.
 
-- __Country__ refers to:  Madagascar
+- __Prestataire de Service__ signifie toute personne physique ou morale qui traite les données pour le compte de la Société. Il s'agit de sociétés tierces ou de personnes employées par la Société pour faciliter le Service, fournir le Service au nom de la Société, effectuer des services liés au Service ou aider la Société à analyser comment le Service est utilisé.
 
-- __Device__ means any device that can access the Service such as a computer, a cell phone or a digital tablet.
+- __Données d'Utilisation__ fait référence aux données collectées automatiquement, soit générées par l'utilisation du Service, soit par l'infrastructure du Service elle-même (par exemple, la durée d'une visite de page).
 
+- __Vous__ désigne la personne accédant ou utilisant le Service, ou la société, ou autre entité juridique pour le compte de laquelle cette personne accède ou utilise le Service, selon le cas.
 
+## Collecte et Utilisation de Vos Données Personnelles
 
-- __Personal Data__ is any information that relates to an identified or identifiable individual.
+### Types de Données Collectées
 
+#### Données Personnelles
 
+Lors de l'utilisation de Notre Service, Nous pouvons Vous demander de Nous fournir certaines informations personnellement identifiables qui peuvent être utilisées pour Vous contacter ou Vous identifier. Les informations personnellement identifiables peuvent inclure, mais ne sont pas limitées à :
 
+- Données d'Utilisation
 
-- __Service__ refers to the Application.
+#### Données d'Utilisation
 
-- __Service Provider__ means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.
-	
+Les Données d'Utilisation sont collectées automatiquement lors de l'utilisation du Service.
 
-- __Usage Data__ refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+Les Données d'Utilisation peuvent inclure des informations telles que l'adresse de protocole Internet de Votre Appareil (par exemple, l'adresse IP), le type de navigateur, la version du navigateur, les pages de notre Service que Vous visitez, l'heure et la date de Votre visite, le temps passé sur ces pages, les identifiants uniques de l'appareil et d'autres données de diagnostic.
 
+Lorsque Vous accédez au Service par ou via un appareil mobile, Nous pouvons collecter certaines informations automatiquement, y compris, mais sans s'y limiter, le type d'appareil mobile que Vous utilisez, l'identifiant unique de Votre appareil mobile, l'adresse IP de Votre appareil mobile, Votre système d'exploitation mobile, le type de navigateur Internet mobile que Vous utilisez, les identifiants uniques de l'appareil et d'autres données de diagnostic.
 
-- __You__ means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+Nous pouvons également collecter des informations que Votre navigateur envoie chaque fois que Vous visitez Notre Service ou lorsque Vous accédez au Service par ou via un appareil mobile.
 
+### Utilisation de Vos Données Personnelles
 
+La Société peut utiliser les Données Personnelles aux fins suivantes :
 
-## Collecting and Using Your Personal Data
+- __Pour fournir et maintenir notre Service__, y compris pour surveiller l'utilisation de notre Service.
+- __Pour gérer Votre Compte :__ pour gérer Votre inscription en tant qu'utilisateur du Service. Les Données Personnelles que Vous fournissez peuvent Vous donner accès à différentes fonctionnalités du Service qui sont disponibles pour Vous en tant qu'utilisateur enregistré.
+- __Pour l'exécution d'un contrat :__ le développement, la conformité et l'engagement du contrat d'achat pour les produits, articles ou services que Vous avez achetés ou de tout autre contrat avec Nous via le Service.
+- __Pour Vous contacter :__ Pour Vous contacter par e-mail, appels téléphoniques, SMS ou autres formes équivalentes de communication électronique, telles que les notifications push d'une application mobile concernant les mises à jour ou les communications informatives liées aux fonctionnalités, produits ou services contractés, y compris les mises à jour de sécurité, lorsque cela est nécessaire ou raisonnable pour leur mise en œuvre.
+- __Pour Vous fournir__ des nouvelles, des offres spéciales et des informations générales sur d'autres biens, services et événements que Nous proposons et qui sont similaires à ceux que vous avez déjà achetés ou sur lesquels vous vous êtes renseigné, à moins que Vous n'ayez choisi de ne pas recevoir ces informations.
+- __Pour gérer Vos demandes :__ Pour répondre et gérer Vos demandes adressées à Nous.
 
-### Types of Data Collected
+- __Pour les transferts d'entreprise :__ Nous pouvons utiliser Vos informations pour évaluer ou mener une fusion, une cession, une restructuration, une réorganisation, une dissolution ou toute autre vente ou transfert de tout ou partie de Nos actifs, que ce soit en tant qu'entreprise en activité ou dans le cadre d'une faillite, d'une liquidation ou d'une procédure similaire, dans laquelle les Données Personnelles détenues par Nous sur les utilisateurs de notre Service font partie des actifs transférés.
+- __À d'autres fins :__ Nous pouvons utiliser Vos informations à d'autres fins, telles que l'analyse de données, l'identification des tendances d'utilisation, la détermination de l'efficacité de nos campagnes promotionnelles et pour évaluer et améliorer notre Service, nos produits, nos services, notre marketing et votre expérience.
 
-#### Personal Data
+Nous pouvons partager Vos informations personnelles dans les situations suivantes :
 
-While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
+- __Avec des Prestataires de Service :__ Nous pouvons partager Vos informations personnelles avec des Prestataires de Service pour surveiller et analyser l'utilisation de notre Service, pour Vous contacter.
+- __Pour les transferts d'entreprise :__ Nous pouvons partager ou transférer Vos informations personnelles dans le cadre de, ou pendant les négociations de, toute fusion, vente d'actifs de la Société, financement ou acquisition de tout ou partie de Notre entreprise à une autre société.
+- __Avec des Affiliés :__ Nous pouvons partager Vos informations avec Nos affiliés, auquel cas nous exigerons de ces affiliés qu'ils respectent cette Politique de Confidentialité. Les affiliés incluent Notre société mère et toutes autres filiales, partenaires de coentreprise ou autres sociétés que Nous contrôlons ou qui sont sous contrôle commun avec Nous.
+- __Avec des partenaires commerciaux :__ Nous pouvons partager Vos informations avec Nos partenaires commerciaux pour Vous proposer certains produits, services ou promotions.
+- __Avec d'autres utilisateurs :__ lorsque Vous partagez des informations personnelles ou interagissez autrement dans les espaces publics avec d'autres utilisateurs, ces informations peuvent être consultées par tous les utilisateurs et peuvent être distribuées publiquement à l'extérieur.
+- __Avec Votre consentement :__ Nous pouvons divulguer Vos informations personnelles à toute autre fin avec Votre consentement.
 
+### Conservation de Vos Données Personnelles
 
+La Société ne conservera Vos Données Personnelles que le temps nécessaire aux fins énoncées dans cette Politique de Confidentialité. Nous conserverons et utiliserons Vos Données Personnelles dans la mesure nécessaire pour nous conformer à nos obligations légales (par exemple, si nous sommes tenus de conserver vos données pour nous conformer aux lois applicables), résoudre les litiges et appliquer nos accords juridiques et politiques.
 
+La Société conservera également les Données d'Utilisation à des fins d'analyse interne. Les Données d'Utilisation sont généralement conservées pendant une période plus courte, sauf lorsque ces données sont utilisées pour renforcer la sécurité ou pour améliorer la fonctionnalité de Notre Service, ou si Nous sommes légalement obligés de conserver ces données pour des périodes plus longues.
 
+### Transfert de Vos Données Personnelles
 
+Vos informations, y compris les Données Personnelles, sont traitées dans les bureaux d'exploitation de la Société et dans tout autre lieu où se trouvent les parties impliquées dans le traitement. Cela signifie que ces informations peuvent être transférées vers — et conservées sur — des ordinateurs situés en dehors de Votre état, province, pays ou autre juridiction gouvernementale où les lois sur la protection des données peuvent différer de celles de Votre juridiction.
 
+Votre consentement à cette Politique de Confidentialité suivi de Votre soumission de ces informations représente Votre accord à ce transfert.
 
-- Usage Data
+La Société prendra toutes les mesures raisonnablement nécessaires pour s'assurer que Vos données sont traitées en toute sécurité et conformément à cette Politique de Confidentialité et aucun transfert de Vos Données Personnelles n'aura lieu vers une organisation ou un pays à moins qu'il n'y ait des contrôles adéquats en place, y compris la sécurité de Vos données et autres informations personnelles.
 
+### Supprimer Vos Données Personnelles
 
+Vous avez le droit de supprimer ou de demander que Nous Vous aidions à supprimer les Données Personnelles que Nous avons collectées à Votre sujet.
 
-#### Usage Data
+Notre Service peut Vous donner la possibilité de supprimer certaines informations à Votre sujet depuis le Service.
 
-Usage Data is collected automatically when using the Service.
+Vous pouvez mettre à jour, modifier ou supprimer Vos informations à tout moment en Vous connectant à Votre Compte, si vous en avez un, et en visitant la section des paramètres du compte qui vous permet de gérer Vos informations personnelles. Vous pouvez également Nous contacter pour demander l'accès, la correction ou la suppression de toute information personnelle que Vous Nous avez fournie.
 
-Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+Veuillez noter, cependant, que Nous pouvons avoir besoin de conserver certaines informations lorsque nous avons une obligation légale ou une base légale pour le faire.
 
-When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device's unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
+### Divulgation de Vos Données Personnelles
 
-We may also collect information that Your browser sends whenever You visit Our Service or when You access the Service by or through a mobile device.
+#### Transactions Commerciales
 
+Si la Société est impliquée dans une fusion, une acquisition ou une vente d'actifs, Vos Données Personnelles peuvent être transférées. Nous fournirons un avis avant que Vos Données Personnelles ne soient transférées et ne soient soumises à une Politique de Confidentialité différente.
 
+#### Application de la loi
 
+Dans certaines circonstances, la Société peut être tenue de divulguer Vos Données Personnelles si la loi l'exige ou en réponse à des demandes valides des autorités publiques (par exemple, un tribunal ou une agence gouvernementale).
 
+#### Autres exigences légales
 
+La Société peut divulguer Vos Données Personnelles en croyant de bonne foi qu'une telle action est nécessaire pour :
 
+- Se conformer à une obligation légale
+- Protéger et défendre les droits ou la propriété de la Société
+- Prévenir ou enquêter sur d'éventuels actes répréhensibles liés au Service
+- Protéger la sécurité personnelle des Utilisateurs du Service ou du public
+- Protéger contre la responsabilité légale
 
+### Sécurité de Vos Données Personnelles
 
+La sécurité de Vos Données Personnelles est importante pour Nous, mais rappelez-vous qu'aucune méthode de transmission sur Internet ou méthode de stockage électronique n'est sécurisée à 100 %. Bien que Nous nous efforcions d'utiliser des moyens commercialement acceptables pour protéger Vos Données Personnelles, Nous ne pouvons garantir leur sécurité absolue.
 
-### Use of Your Personal Data
+## Confidentialité des Enfants
 
-The Company may use Personal Data for the following purposes:
+Notre Service ne s'adresse à personne de moins de 13 ans. Nous ne collectons pas sciemment d'informations personnellement identifiables auprès de quiconque de moins de 13 ans. Si Vous êtes un parent ou un tuteur et que Vous savez que Votre enfant Nous a fourni des Données Personnelles, veuillez Nous contacter. Si Nous apprenons que Nous avons collecté des Données Personnelles auprès de quiconque de moins de 13 ans sans vérification du consentement parental, Nous prenons des mesures pour supprimer ces informations de Nos serveurs.
 
-- __To provide and maintain our Service__, including to monitor the usage of our Service.
-- __To manage Your Account:__ to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
-- __For the performance of a contract:__ the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
-- __To contact You:__ To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
-- __To provide You__ with news, special offers, and general information about other goods, services and events which We offer that are similar to those that you have already purchased or inquired about unless You have opted not to receive such information.
-- __To manage Your requests:__ To attend and manage Your requests to Us.
+Si Nous devons nous fier au consentement comme base légale pour le traitement de Vos informations et que Votre pays exige le consentement d'un parent, Nous pouvons exiger le consentement de Votre parent avant de collecter et d'utiliser ces informations.
 
-- __For business transfers:__ We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.
-- __For other purposes__: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience. 
+## Liens vers d'autres sites Web
 
-We may share Your personal information in the following situations:
+Notre Service peut contenir des liens vers d'autres sites Web qui ne sont pas exploités par Nous. Si Vous cliquez sur un lien tiers, Vous serez dirigé vers le site de ce tiers. Nous Vous conseillons vivement de consulter la Politique de Confidentialité de chaque site que Vous visitez.
 
-- __With Service Providers:__ We may share Your personal information with Service Providers to monitor and analyze the use of our Service,  to contact You.
-- __For business transfers:__ We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
-- __With Affiliates:__ We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
-- __With business partners:__ We may share Your information with Our business partners to offer You certain products, services or promotions.
-- __With other users:__ when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. 
-- __With Your consent__: We may disclose Your personal information for any other purpose with Your consent.
+Nous n'avons aucun contrôle sur et n'assumons aucune responsabilité quant au contenu, aux politiques de confidentialité ou aux pratiques de tout site ou service tiers.
 
-### Retention of Your Personal Data
+## Modifications de cette Politique de Confidentialité
 
-The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+Nous pouvons mettre à jour Notre Politique de Confidentialité de temps à autre. Nous Vous informerons de tout changement en publiant la nouvelle Politique de Confidentialité sur cette page.
 
-The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer periods.
+Nous Vous informerons par e-mail et/ou par un avis visible sur Notre Service, avant que le changement ne devienne effectif et mettrons à jour la date de "Dernière mise à jour" en haut de cette Politique de Confidentialité.
 
-### Transfer of Your Personal Data
+Il Vous est conseillé de consulter périodiquement cette Politique de Confidentialité pour tout changement. Les modifications apportées à cette Politique de Confidentialité entrent en vigueur lorsqu'elles sont publiées sur cette page.
 
-Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ from those from Your jurisdiction.
+## Nous Contacter
 
-Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
+Si vous avez des questions sur cette Politique de Confidentialité, Vous pouvez nous contacter :
 
-The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
-
-### Delete Your Personal Data
-
-You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
-
-Our Service may give You the ability to delete certain information about You from within the Service.
-
-You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.
-
-Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
-
-### Disclosure of Your Personal Data
-
-#### Business Transactions
-
-If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
-
-#### Law enforcement
-
-Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
-
-#### Other legal requirements
-
-The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
-
-- Comply with a legal obligation
-- Protect and defend the rights or property of the Company
-- Prevent or investigate possible wrongdoing in connection with the Service
-- Protect the personal safety of Users of the Service or the public
-- Protect against legal liability
-
-### Security of Your Personal Data
-
-The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially reasonable means to protect Your Personal Data, We cannot guarantee its absolute security.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Children's Privacy
-
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
-
-If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
-
-
-## Links to Other Websites
-
-Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
-
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
-## Changes to this Privacy Policy
-
-We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
-
-We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
-
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, You can contact us:
-
-
-- By email: andrisoaheritinasamuel@gmail.com
+- Par email : andrisoaheritinasamuel@gmail.com
